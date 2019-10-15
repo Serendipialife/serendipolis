@@ -1,2 +1,0 @@
-# serendipolis
-The Serendipia Cooperative Protocol is a social impact decentralized accelerator protocol made to tokenize cooperatives communities worldwide. By creating a token which not only acts as currency, but incentivizes positive social impact, we create equitable trade and collaboration through co-ops in our ecosystem. It allows cooperatives to have global teams to address global issues, to build micro-economies, and/or simply tokenize communities, networks, lands, or other assets. 
